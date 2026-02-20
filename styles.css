@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: "Outfit";
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
