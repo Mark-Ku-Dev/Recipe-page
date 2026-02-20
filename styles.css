@@ -10,4 +10,5 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
+  background-color: hsl(29deg 53% 90%);
 }
